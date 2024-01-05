@@ -1,4 +1,4 @@
-module github.com/akhil/go-react-calorie-tracker-yt
+module github.com/SymplyMatt/food_calories_store
 
 go 1.18
 

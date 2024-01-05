@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/akhil/go-react-calorie-tracker-yt/routes"
+	"github.com/SymplyMatt/food_calories_store/routes"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 )
